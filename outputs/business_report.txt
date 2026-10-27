@@ -1,0 +1,52 @@
+
+========================================
+       E-COMMERCE SALES REPORT
+========================================
+
+1. OVERALL PERFORMANCE
+----------------------------------------
+Total Revenue       : $3,717,743.35
+Total Profit        : $695,589.35
+Total Orders        : 2500
+Total Customers     : 400
+Profit Margin       : 18.71%
+Average Order Value : $1,487.10
+
+2. BEST PRODUCT CATEGORY
+----------------------------------------
+Category : Technology
+Revenue  : $1,833,946.70
+
+3. MOST PROFITABLE REGION
+----------------------------------------
+Region : South
+Profit : $178,384.10
+
+4. TOP PRODUCT BY REVENUE
+----------------------------------------
+Product : Smartphone
+Revenue : $1,129,024.00
+
+5. TOP CUSTOMER BY REVENUE
+----------------------------------------
+Customer : Customer 0004
+Customer ID : CUS-0004
+Revenue : $26,541.75
+
+6. HIGHEST SALES MONTH
+----------------------------------------
+Month   : 2024-05
+Revenue : $127,943.80
+
+7. LOSS-MAKING PRODUCTS
+----------------------------------------
+Number of Products : 0
+Combined Net Loss  : $0.00
+
+8. BUSINESS RECOMMENDATIONS
+----------------------------------------
+1. Maintain profitability and monitor changes in product margins.
+2. Study the factors behind strong sales in the Technology category.
+3. Review successful practices in the South region.
+
+========================================
